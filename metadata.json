@@ -1,0 +1,5 @@
+{
+  "name": "WebGL Animated Sign-In",
+  "description": "A visually stunning, multi-step sign-in page featuring an interactive WebGL dot matrix background and fluid animations using Framer Motion and React Three Fiber.",
+  "requestFramePermissions": []
+}
